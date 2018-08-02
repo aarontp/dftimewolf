@@ -65,6 +65,7 @@ config.Config.register_recipe(grr_hunt_artifacts)
 config.Config.register_recipe(grr_hunt_file)
 config.Config.register_recipe(grr_huntresults_plaso_timesketch)
 config.Config.register_recipe(timesketch_upload)
+config.Config.register_recipe(gcp_import_analysis)
 config.Config.register_recipe(gcp_turbinia)
 config.Config.register_recipe(gcp_turbinia_import)
 
